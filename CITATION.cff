@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this dataset if you use it."
+title: "Northstar Enterprise Universe"
+type: dataset
+authors:
+  - name: "School of Applied AI (SAAI)"
+  - name: "Codex Automation Key Pvt. Ltd."
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://saai.codexautomationkey.com"

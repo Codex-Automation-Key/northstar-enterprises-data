@@ -1,0 +1,3 @@
+# Business rules and relationships
+
+Use the actual IDs and fields in the data dictionary. Tickets link customers, subscriptions, products, incidents, invoices and SLA policies where available. Messages, events, assignments and routing decisions link by ticket_id. Payments link invoices; refunds link payments. Empty CSV fields represent missing values. Needs Review is a routing queue, not a final operational department. Historical decisions are not necessarily correct. Analyze response and resolution SLA separately; report unresolved tickets and use the snapshot cutoff. The dataset is synthetic and business policies may evolve in later versions.

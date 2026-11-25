@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.env.*
+*.pem
+*.key
+private/
+*answer_key*
+*evaluator*
+*.py

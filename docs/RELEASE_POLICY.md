@@ -1,0 +1,3 @@
+# Release policy
+
+Tag each published snapshot. Never silently replace a historical release. Preserve stable entity IDs across future periods, append events and publish explicit entity updates or consolidated snapshots. Record schema changes, period, counts and hashes in each release. The private generator currently produces snapshots; persistent incremental generation must be implemented before promising continuity. Future binary snapshots may be distributed through GitHub release assets. Selected student solutions may inspire simulated business changes with permission; distinguish simulation from measured results.

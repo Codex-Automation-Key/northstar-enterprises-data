@@ -1,0 +1,5 @@
+department_id,name,is_final_queue
+billing,Billing Operations,1
+account,Account Services,1
+technical,Technical Support,1
+review,Needs Review,0

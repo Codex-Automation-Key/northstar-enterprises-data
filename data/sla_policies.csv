@@ -1,0 +1,16 @@
+sla_policy_id,tier,priority,first_response_hours
+Basic-Low,Basic,Low,48
+Basic-Medium,Basic,Medium,24
+Basic-High,Basic,High,8
+Basic-Critical,Basic,Critical,2
+Basic-Undetermined,Basic,Undetermined,24
+Pro-Low,Pro,Low,36.0
+Pro-Medium,Pro,Medium,18.0
+Pro-High,Pro,High,6.0
+Pro-Critical,Pro,Critical,1.5
+Pro-Undetermined,Pro,Undetermined,18.0
+Enterprise-Low,Enterprise,Low,24.0
+Enterprise-Medium,Enterprise,Medium,12.0
+Enterprise-High,Enterprise,High,4.0
+Enterprise-Critical,Enterprise,Critical,1.0
+Enterprise-Undetermined,Enterprise,Undetermined,12.0
